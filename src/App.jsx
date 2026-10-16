@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 
 const starterTasks = [
   { id: 1, text: 'Plan my day', completed: false },
